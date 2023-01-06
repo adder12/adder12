@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adder12
-- 👀 I’m interested in Full stack development and Cyber Security
+- 👋 Hi, I’m Ryan(He/They)
+- 👀 I’m interested in Full stack development, software testing, and Cyber Security
 - Gitlab link: https://gitlab.com/adder12
 
 
